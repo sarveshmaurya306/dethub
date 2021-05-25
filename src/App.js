@@ -19,8 +19,7 @@ function App() {
   const [isscroll, setIsscroll] = useState(0);
   useEffect(() => {
     AOS.init({
-      offset: 200,
-      duration: 600,
+      duration:500,
     });
   }, [])
 
@@ -59,7 +58,7 @@ function App() {
         <div className="container">
           <div className="row">
             <div className="col-lg-6 invisible"></div>
-            <div className="col-12 col-lg-6" style={{ margin: '16rem 0px' }}>
+            <div data-aos="fade-up" className="col-12 col-lg-6" style={{ margin: '16rem 0px' }}>
               <h2 style={{
                 letterSpacing: ' -0.05em',
                 fontSize: '4.5vw',
@@ -76,7 +75,7 @@ function App() {
           {/* //middle content */}
           <div className="row">
 
-            <span className="col-12 col-md-5">
+            <span className="col-12 col-md-5" data-aos="fade-up">
               <div className="mt-4">
                 <img src="https://images.ctfassets.net/b62jgkkofmz2/6JGmTe13I2f9bNnXptsos0/c6c78158d3395686edbbeb2566abe7e5/zyppysCaseStudyCardBanner_2x.png?w=954&h=1292&q=100" alt="img" className="img-fluid responsive_image " />
               </div>
@@ -88,7 +87,7 @@ function App() {
                 </span>
               </span>
             </span>
-            <span className="col-12 col-md-7">
+            <span className="col-12 col-md-7" data-aos="fade-up">
               <video src={vdo} muted={true} loop={true} autoPlay={true} className="col-12 animate" style={{ marginTop: 60, padding: 0, borderRadius: 15 }}></video>
               <br />
               <span className="row">
@@ -130,6 +129,9 @@ function App() {
 
       {/* //footer */}
       <Footer />
+      {/* <div style={{ padding: '4rem 0px' }}> */}
+
+      {/* </div> */}
     </div>
   )
 }
