@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dethub/static/css/main.57457519.chunk.css",
-    "main.js": "/dethub/static/js/main.1d3cffeb.chunk.js",
-    "main.js.map": "/dethub/static/js/main.1d3cffeb.chunk.js.map",
+    "main.css": "/dethub/static/css/main.3930d84b.chunk.css",
+    "main.js": "/dethub/static/js/main.965e2a48.chunk.js",
+    "main.js.map": "/dethub/static/js/main.965e2a48.chunk.js.map",
     "runtime-main.js": "/dethub/static/js/runtime-main.f752a201.js",
     "runtime-main.js.map": "/dethub/static/js/runtime-main.f752a201.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/dethub/static/css/2.7fc9bc2b.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.7eeb8dff.chunk.js.map": "/dethub/static/js/2.7eeb8dff.chunk.js.map",
     "index.html": "/dethub/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/dethub/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.57457519.chunk.css.map": "/dethub/static/css/main.57457519.chunk.css.map",
+    "static/css/main.3930d84b.chunk.css.map": "/dethub/static/css/main.3930d84b.chunk.css.map",
     "static/js/2.7eeb8dff.chunk.js.LICENSE.txt": "/dethub/static/js/2.7eeb8dff.chunk.js.LICENSE.txt",
     "static/media/Pexels Videos 946147.0e8332af.mp4": "/dethub/static/media/Pexels Videos 946147.0e8332af.mp4"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.f752a201.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.7eeb8dff.chunk.js",
-    "static/css/main.57457519.chunk.css",
-    "static/js/main.1d3cffeb.chunk.js"
+    "static/css/main.3930d84b.chunk.css",
+    "static/js/main.965e2a48.chunk.js"
   ]
 }
