@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dethub/static/css/main.29000ac8.chunk.css",
-    "main.js": "/dethub/static/js/main.e8cd7663.chunk.js",
-    "main.js.map": "/dethub/static/js/main.e8cd7663.chunk.js.map",
+    "main.js": "/dethub/static/js/main.25136b60.chunk.js",
+    "main.js.map": "/dethub/static/js/main.25136b60.chunk.js.map",
     "runtime-main.js": "/dethub/static/js/runtime-main.f752a201.js",
     "runtime-main.js.map": "/dethub/static/js/runtime-main.f752a201.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/dethub/static/css/2.7fc9bc2b.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.985800d1.chunk.js",
     "static/css/main.29000ac8.chunk.css",
-    "static/js/main.e8cd7663.chunk.js"
+    "static/js/main.25136b60.chunk.js"
   ]
 }
