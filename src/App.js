@@ -9,7 +9,7 @@ import './App.css'
 
 const images = [
   "https://images.ctfassets.net/b62jgkkofmz2/3vqmAu6CHwYEIrBpPFR45/2683e3dd64de4de5c36adea9bc3c6e0e/logo-construction-blog-thumbnails.png?w=1000&h=1000&q=100&fm=webp",
-  "https://images.ctfassets.net/b62jgkkofmz2/3vqmAu6CHwYEIrBpPFR45/2683e3dd64de4de5c36adea9bc3c6e0e/logo-construction-blog-thumbnails.png?w=1000&h=1000&q=100&fm=webp",
+  "https://images.ctfassets.net/b62jgkkofmz2/3EEniwFhvVivYOBi7xMS9B/1c57f3d06d6383f690400c034d264bf0/why-the-rebrand-5-whys-blog-thumbnails.png?w=1000&h=1000&q=100&fm=webp",
   "https://images.ctfassets.net/b62jgkkofmz2/3vqmAu6CHwYEIrBpPFR45/2683e3dd64de4de5c36adea9bc3c6e0e/logo-construction-blog-thumbnails.png?w=1000&h=1000&q=100&fm=webp",
   
 ]
@@ -42,6 +42,7 @@ function App() {
     <div style={{
       backgroundColor: "#19191C",
     }}>
+      
       <div style={{ height: '80vh' }}>
         <Navbar scrolled={isscroll} />
         <div className="container d-flex " data-aos="fade-up" style={{ justifyContent: 'center', flexDirection: 'column', height: '100%' }}>
@@ -105,8 +106,8 @@ function App() {
       <div style={{backgroundColor: 'whitesmoke' }}>
         <div className="container" >
           <div style={{ padding: '8rem 0px' }}>
-            <h1 className="display-4" style={{ fontWeight: 'bolder' }}>Pick Our Brains</h1>
-            <p className="gray" style={{ fontSize: '2rem' }}>News, Blogs, Good Intentions etc.</p>
+            <h1 className="display-4" style={{ fontWeight: 'bolder' }} data-aos="fade-up">Pick Our Brains</h1>
+            <p className="gray" style={{ fontSize: '2rem' }} data-aos="fade-up">News, Blogs, Good Intentions etc.</p>
           </div>
           <div style={{ padding: '0px 0px 8rem 0px' }}>
             <Scroll images={images} />
@@ -123,6 +124,9 @@ function App() {
           <div style={{ padding: '8rem 0px' }}>
             <svg height="61" viewBox="0 0 72 61" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><path fill="#FFF" d="M-147-5271h1440v6532H-147z"></path><path d="M17.429 34.776C7.803 34.776 0 26.99 0 17.388 0 7.785 7.803 0 17.429 0c9.625 0 17.428 7.785 17.428 17.388 0 9.603-7.803 17.388-17.428 17.388zm50.364-6.418l.034.034-32.584 32.583-10.792-10.792L44.524 30.11c-.319-.274-.63-.562-.933-.865-6.457-6.457-6.476-16.906-.043-23.34 6.434-6.433 16.883-6.414 23.34.043 6.155 6.154 6.46 15.936.905 22.41z" fill="#33343E"></path></g></svg>
             <p className="gray" style={{ fontSize: '2rem' }}>Lesser bullshit leads to larger impact.</p>
+            
+              <button className="slide">Know More About Us</button>
+            
           </div>
         </div>
       </div>

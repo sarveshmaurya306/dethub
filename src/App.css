@@ -26,3 +26,34 @@
     transition: all 0.3s ease-out;
     transform: scale(0.98);
 }
+.know_more_button{
+    border-left: 10px solid #E9E9EC;
+    font-size: 18px;
+    font-weight: bolder;
+    padding:0px 60px;
+    font-family: system-ui;
+    transition: all 0.3s ease-in;
+}
+
+
+.slide {
+  --color: #fff;
+  --hover: #E9E9EC;
+}
+.slide:hover, .slide:focus {
+  box-shadow: inset 17em 0 0 0 var(--hover);
+}
+button {
+  background-color: white;
+  transition: 0.25s;
+  font-size: 18px;
+  font-weight: bolder;
+  padding:5px 70px;
+  font-family: system-ui;
+  border: none;
+  border-left: 16px solid var(--hover);
+  transition: all 0.3s ease-in-out;
+}
+button:hover, button:focus {
+  border-color: var(--hover);
+}

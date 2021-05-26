@@ -11,13 +11,13 @@ function Scroll({ images }) {
         });
     },[])
     return (
-        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }} data-aos="fade-up">
+        <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center' }} >
 
             {
                 images?.map(url => {
                     return (
-                        <span className="main_card">
-                            <img src={url} alt="img" height="350" />
+                        <span className="main_card" data-aos="fade-up">
+                            <img src={url} alt="img" height="350" className="img-fluid " />
                             <span className="card_content">
                                 Why does the world need another design agency?
                                 </span>
