@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/dethub/static/css/main.1101c29b.chunk.css",
-    "main.js": "/dethub/static/js/main.953768e2.chunk.js",
-    "main.js.map": "/dethub/static/js/main.953768e2.chunk.js.map",
+    "main.css": "/dethub/static/css/main.bcb46f4e.chunk.css",
+    "main.js": "/dethub/static/js/main.17587c5e.chunk.js",
+    "main.js.map": "/dethub/static/js/main.17587c5e.chunk.js.map",
     "runtime-main.js": "/dethub/static/js/runtime-main.f752a201.js",
     "runtime-main.js.map": "/dethub/static/js/runtime-main.f752a201.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/dethub/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.7eeb8dff.chunk.js": "/dethub/static/js/2.7eeb8dff.chunk.js",
-    "static/js/2.7eeb8dff.chunk.js.map": "/dethub/static/js/2.7eeb8dff.chunk.js.map",
+    "static/js/2.985800d1.chunk.js": "/dethub/static/js/2.985800d1.chunk.js",
+    "static/js/2.985800d1.chunk.js.map": "/dethub/static/js/2.985800d1.chunk.js.map",
     "index.html": "/dethub/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/dethub/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.1101c29b.chunk.css.map": "/dethub/static/css/main.1101c29b.chunk.css.map",
-    "static/js/2.7eeb8dff.chunk.js.LICENSE.txt": "/dethub/static/js/2.7eeb8dff.chunk.js.LICENSE.txt",
+    "static/css/main.bcb46f4e.chunk.css.map": "/dethub/static/css/main.bcb46f4e.chunk.css.map",
+    "static/js/2.985800d1.chunk.js.LICENSE.txt": "/dethub/static/js/2.985800d1.chunk.js.LICENSE.txt",
     "static/media/Pexels Videos 946147.0e8332af.mp4": "/dethub/static/media/Pexels Videos 946147.0e8332af.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.f752a201.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.7eeb8dff.chunk.js",
-    "static/css/main.1101c29b.chunk.css",
-    "static/js/main.953768e2.chunk.js"
+    "static/js/2.985800d1.chunk.js",
+    "static/css/main.bcb46f4e.chunk.css",
+    "static/js/main.17587c5e.chunk.js"
   ]
 }
