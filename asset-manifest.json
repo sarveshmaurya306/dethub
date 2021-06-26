@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/dethub/static/css/main.6dd37597.chunk.css",
-    "main.js": "/dethub/static/js/main.80612215.chunk.js",
-    "main.js.map": "/dethub/static/js/main.80612215.chunk.js.map",
-    "runtime-main.js": "/dethub/static/js/runtime-main.f752a201.js",
-    "runtime-main.js.map": "/dethub/static/js/runtime-main.f752a201.js.map",
-    "static/css/2.7fc9bc2b.chunk.css": "/dethub/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.2c48f39b.chunk.js": "/dethub/static/js/2.2c48f39b.chunk.js",
-    "static/js/2.2c48f39b.chunk.js.map": "/dethub/static/js/2.2c48f39b.chunk.js.map",
-    "index.html": "/dethub/index.html",
-    "static/css/2.7fc9bc2b.chunk.css.map": "/dethub/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.6dd37597.chunk.css.map": "/dethub/static/css/main.6dd37597.chunk.css.map",
-    "static/js/2.2c48f39b.chunk.js.LICENSE.txt": "/dethub/static/js/2.2c48f39b.chunk.js.LICENSE.txt",
-    "static/media/Pexels Videos 946147.0e8332af.mp4": "/dethub/static/media/Pexels Videos 946147.0e8332af.mp4"
+    "main.css": "/static/css/main.97512383.chunk.css",
+    "main.js": "/static/js/main.e240d71e.chunk.js",
+    "main.js.map": "/static/js/main.e240d71e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.44e0fbc5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.44e0fbc5.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.66588f56.chunk.js": "/static/js/2.66588f56.chunk.js",
+    "static/js/2.66588f56.chunk.js.map": "/static/js/2.66588f56.chunk.js.map",
+    "static/js/3.73af9c25.chunk.js": "/static/js/3.73af9c25.chunk.js",
+    "static/js/3.73af9c25.chunk.js.map": "/static/js/3.73af9c25.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.97512383.chunk.css.map": "/static/css/main.97512383.chunk.css.map",
+    "static/js/2.66588f56.chunk.js.LICENSE.txt": "/static/js/2.66588f56.chunk.js.LICENSE.txt",
+    "static/media/Pexels Videos 946147.0e8332af.mp4": "/static/media/Pexels Videos 946147.0e8332af.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.f752a201.js",
+    "static/js/runtime-main.44e0fbc5.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.2c48f39b.chunk.js",
-    "static/css/main.6dd37597.chunk.css",
-    "static/js/main.80612215.chunk.js"
+    "static/js/2.66588f56.chunk.js",
+    "static/css/main.97512383.chunk.css",
+    "static/js/main.e240d71e.chunk.js"
   ]
 }
