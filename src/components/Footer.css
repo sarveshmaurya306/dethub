@@ -1,0 +1,13 @@
+.p{
+    font-weight: 400;
+    color: rgb(163, 165, 184);
+    opacity: 0.5;
+    margin: 0px;
+    font-size:25px;
+}
+
+.slide2{
+  border-left: 17px solid rgb(163, 165, 184) ;
+  font-size: 30px;
+  color: rgb(163, 165, 184);
+}
